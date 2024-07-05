@@ -8,9 +8,13 @@ Requirements
 In order to build dwm you need the Xlib header files.
 JetBrainsMono Nerd Font --> if you don't have it installed make sure to install it or change default font in 'config.h' file.
 
+Font Installation
+-----------------
+Add JetBrainsMonoNerdFont-Regular.ttf to /usr/share/fonts/ directory. (If it doesn't exist, create it.)
 
-Installation
+Dwm Installation
 ------------
+cd into dwm directory
 run as sudo:
 
     make clean install
