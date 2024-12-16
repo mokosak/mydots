@@ -39,10 +39,12 @@ MODKEY|SHIFT,S   SCREENSHOT (flameshot package required)
 
 .xinitrc
 --------
+```
 picom &
 slstatus &
 nitrogen --restore &
 dwm
+```
 
 
 
