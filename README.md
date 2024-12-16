@@ -50,7 +50,7 @@ dwm
 FINAL PRODUCT
 -------------
 
-![riced](https://github.com/user-attachments/assets/97817d34-6805-47c1-be48-1f5a8720bc7e)
+![ricedforgithub1](https://github.com/user-attachments/assets/8a720962-32cb-407f-9a54-9dd1e13973a2)
 
 
 Updated readme coming soon.
