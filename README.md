@@ -7,8 +7,7 @@ In order to build dwm you need the Xlib header files.
 
 Installation
 ------------
-Edit config.mk to match your local setup (dwm is installed into
-the /usr/local namespace by default).
+Copy dwm (or mydots) to your .config directory then cd into cd.
 
 Afterwards enter the following command to build and install dwm (if
 necessary as root):
