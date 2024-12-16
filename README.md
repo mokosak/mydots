@@ -2,7 +2,8 @@
 
 Requirements
 ------------
-In order to build dwm you need the Xlib header files.
+- In order to build dwm you need the Xlib header files.
+- In order to see special icons and have font working you need to copy JetBrainsMono Nerd Font from the dwm directory into the /usr/local/share/fonts/ directory.
 
 
 Installation
