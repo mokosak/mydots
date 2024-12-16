@@ -17,6 +17,7 @@ necessary as root):
 
 KeyStrokes
 ----------
+```
 MODKEY, D        DMENU
 
 MODKEY, ENTER    ST
@@ -50,6 +51,7 @@ MODKEY, F2       DOWN VOLUME (pactl required)
 MODKEY, F1       MUTE VOLUME (pactl required)
 
 MODKEY|SHIFT,S   SCREENSHOT (flameshot package required)
+```
 
 .xinitrc
 --------
