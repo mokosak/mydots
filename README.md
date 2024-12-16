@@ -7,7 +7,7 @@ In order to build dwm you need the Xlib header files.
 
 Installation
 ------------
-Copy dwm (or mydots) to your .config directory then cd into cd.
+Copy dwm (or mydots) to your .config directory then cd into dwm files.
 
 Afterwards enter the following command to build and install dwm (if
 necessary as root):
